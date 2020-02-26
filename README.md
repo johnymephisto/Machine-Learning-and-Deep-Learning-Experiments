@@ -8,3 +8,5 @@
 3. Color Quantization using K-Means clustering - Reducing the color palette of image using K Means Clustering
 
 4. Story Generation using LSTM - Harry Potter. Tweet generation using character level RNN model that tweets like Elon Musk.
+
+5. Hacker Earth Deep Learning Challenge - Auto tag images of the Gala. Done using PyTorch and Resnet18. Simple Transfer Learning solution with Data loaders and augmentation.
